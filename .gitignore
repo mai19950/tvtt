@@ -10,6 +10,7 @@ __pycache__/
 # C extensions
 *.so
 *.mp4
+庆余年/*.mp4
 
 # Distribution / packaging
 .Python
